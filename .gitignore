@@ -3,4 +3,5 @@
 .ipynb_checkpoints/
 *.pyc
 **__pycache__/
-
+./~$HW.docx
+*.tmp
